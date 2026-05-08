@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Kalkulator arkuszy blach">
+  <rect width="512" height="512" rx="96" fill="#174c4f"/>
+  <path d="M128 176h256l-42 160H86z" fill="#f4f8f7"/>
+  <path d="M142 198h212l-28 106H114z" fill="#dfe6ea"/>
+  <path d="M128 176h256l-42 160H86z" fill="none" stroke="#f7c46c" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M168 382h176" stroke="#f4f8f7" stroke-width="28" stroke-linecap="round"/>
+  <path d="M190 128h132" stroke="#f4f8f7" stroke-width="28" stroke-linecap="round"/>
+</svg>
